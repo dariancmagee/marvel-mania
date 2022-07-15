@@ -10,7 +10,7 @@ const MovieCard = () => {
             
             <Box>
             <Typography variant="subtitle1" component="h2">
-                Avengers Earth's Mightiest Heroes
+                The Avengers
             </Typography>
             </Box>
         </Paper>

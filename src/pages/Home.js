@@ -1,3 +1,4 @@
+import '../App.css';
 import Grid from '@mui/material/Grid';
 import Container from '@mui/material/Container';
 import { Typography } from '@mui/material';
@@ -24,7 +25,9 @@ const Home = () => (
         </Grid>
 
             </>
-
+            <br/>
+            <br/>
+        <button><a href="./pages/Trailers.js">Movie Trailers</a></button>
 
         </Container>
 
